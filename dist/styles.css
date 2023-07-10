@@ -538,6 +538,10 @@ video {
   margin-top: 0.75rem;
 }
 
+.mr-\[5px\] {
+  margin-right: 5px;
+}
+
 .flex {
   display: flex;
 }
@@ -862,6 +866,26 @@ video {
 
 .pr-\[18px\] {
   padding-right: 18px;
+}
+
+.pr-\[5px\] {
+  padding-right: 5px;
+}
+
+.pr-\[6px\] {
+  padding-right: 6px;
+}
+
+.pr-\[pr-5\] {
+  padding-right: pr-5;
+}
+
+.pr-\[8px\] {
+  padding-right: 8px;
+}
+
+.pr-\[10px\] {
+  padding-right: 10px;
 }
 
 .text-center {
